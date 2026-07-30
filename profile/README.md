@@ -1,3 +1,5 @@
+![Welcome to Digital Horizon Group](assets/digital-horizon-group-banner.jpg)
+
 # Digital Horizon Group
 
 We build open-source tools for Telegram analytics, automation, and data reporting.
