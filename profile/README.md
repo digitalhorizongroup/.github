@@ -26,6 +26,7 @@ Key capabilities:
 
 Have a question, an idea, or want to collaborate?
 
+- [New Repository Policy](../REPOSITORY_POLICY.md)
 - [Telegram](https://t.me/digitalhorizongroup)
 - [Discord](https://discord.com/invite/fjqzSYCETC)
 - [Email](mailto:info@digitalhorizon.group)
