@@ -1,32 +1,48 @@
-![Welcome to Digital Horizon Group](assets/digital-horizon-group-banner.jpg)
+![Digital Horizon Group](assets/digital-horizon-group-banner.jpg)
 
 # Digital Horizon Group
 
-We build open-source tools for Telegram analytics, automation, and data reporting.
+Digital Horizon Group is an engineering team and technology community focused on building, connecting, and operating practical software systems.
 
-## Featured project
+We bring together developers, engineers, and technology enthusiasts to share experience, help with development, and maintain useful projects.
+
+## What we work with
+
+- Software and web development
+- Business automation and system integration
+- Applied AI
+- Cloud infrastructure and DevOps
+- Cybersecurity and Linux engineering
+- IP telephony and communications
+- Open collaboration and technical knowledge sharing
+
+## Active projects
 
 ### [Telegram Chat & Channel Parser](https://github.com/digitalhorizongroup/Parser_telegram_chat)
 
-A Python and Telethon parser that searches public Telegram chats and channels, analyzes audience activity, and exports structured statistics to Excel.
+**Status: Experimental**
 
-Key capabilities:
+A Python and Telethon tool that searches public Telegram chats and channels, collects activity statistics, and exports structured Excel reports.
 
-- Search Telegram chats and channels by keywords
-- Collect participant and online-user statistics
-- Analyze messages from the last 24 hours
-- Detect voice chats and live streams
-- Export formatted Excel reports
+## Contributing
 
-**Tech stack:** Python, Telethon, openpyxl, asyncio
+Contributions should be focused, documented, and tested where possible. Before starting:
 
-[View the project](https://github.com/digitalhorizongroup/Parser_telegram_chat) · [Report an issue](https://github.com/digitalhorizongroup/Parser_telegram_chat/issues)
+1. Read our [contribution guidelines](../CONTRIBUTING.md).
+2. Check the repository README and existing issues.
+3. Open an issue for substantial changes.
+4. Follow the [New Repository Policy](../REPOSITORY_POLICY.md) when proposing a new project.
 
-## Community
+Security vulnerabilities must be reported privately according to our [Security Policy](../SECURITY.md).
 
-Have a question, an idea, or want to collaborate?
+## Community and links
 
-- [New Repository Policy](../REPOSITORY_POLICY.md)
-- [Telegram](https://t.me/digitalhorizongroup)
-- [Discord](https://discord.com/invite/fjqzSYCETC)
-- [Email](mailto:info@digitalhorizon.group)
+- [Official website](https://digitalhorizon.group)
+- [GitHub projects](https://github.com/orgs/digitalhorizongroup/repositories)
+- [Telegram](https://t.me/DigitalHorizon)
+- [Discord](https://discord.gg/fjqzSYCETC)
+- [Instagram](https://instagram.com/digitalhorizongroup)
+- [Support](../SUPPORT.md)
+- [Email](mailto:hello@digitalhorizon.group)
+
+Explore our projects, report a problem, or join the community to discuss an idea.

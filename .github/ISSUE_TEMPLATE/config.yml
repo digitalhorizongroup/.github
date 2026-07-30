@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Project help and questions
+    url: https://discord.gg/fjqzSYCETC
+    about: Ask usage questions and discuss ideas with the community.
+  - name: Security vulnerability
+    url: https://github.com/digitalhorizongroup/.github/blob/main/SECURITY.md
+    about: Read the private reporting instructions. Do not open a public issue.
